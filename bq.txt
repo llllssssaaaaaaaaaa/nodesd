@@ -1,0 +1,23 @@
+hostname=img.bqge.cc
+^https://img.bqge.cc url script-echo-response bqge.js
+
+http://127.0.0.1/manwa/https://mwappimgs.cc/static/upload2/book/id/171411/30302313/61011028b4c0d04164758c326db1215b.webp?v=20220724
+                                     https://img.manwa.me/static/upload/book/id/30616/878854/c29fae08c6c6133ad4ab8323513c6f07.webp?v=20220724
+
+http://127.0.0.1/manwa/https://img.manwa.me/static/upload/book/id/30616/878854/c29fae08c6c6133ad4ab8323513c6f07.webp?v=20220724
+
+http://127.0.0.1/manwa/https://mwfimsvfast.co/static/upload2/book/id/180040/30303532/e9595229534f29f335ef3435c039c34e.webp?v=20220724
+
+http://127.0.0.1/manwa/https://img.manwa.me/static/upload2/book/id/103629/30058353/ea4759f8083e2cd58667a18377df2e7e.webp?v=20220724
+
+笔趣阁
+
+http://127.0.0.1:8000/bqge/https://kuaikanimg2.cdn.bcebos.com/BookImage/kan/5/4251/3003724/0w09030m.jpg
+
+
+
+
+http://127.0.0.1:3000/api/bqge?url=https://kuaikanimg2.cdn.bcebos.com/BookImage/kan/5/4251/3003724/0w09030m.jpg
+
+
+http://127.0.0.1:3000/api/mw?https://img.manwa.me/static/upload2/book/id/103629/30058353/ea4759f8083e2cd58667a18377df2e7e.webp?v=20220724
